@@ -3,5 +3,5 @@ A Text Adventure game I wrote as a final project for Intro to Programming in 201
 I might actually finish it eventually<br>
 
 # TODO
-Fix circular dependency between Door and Room
-WWrite remaining Rooms
+Fix circular dependency between Door and Room<br>
+Write remaining Rooms
